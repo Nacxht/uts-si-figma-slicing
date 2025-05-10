@@ -1,7 +1,3 @@
-# Demo Link
-
-``
-
 # Slicing Figma
 
 How to run the project?
