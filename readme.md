@@ -1,3 +1,3 @@
 # Slicing Figma
 
-- Run tailwind cli: npm run dev
+- Run tailwind cli: <br /> `npm run dev`
